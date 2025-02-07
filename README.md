@@ -12,9 +12,9 @@ This AWS project showcases an object detection pipeline using **AWS Rekognition*
 - **Object Detection**: AWS Rekognition detects objects and returns labels with confidence scores.
 - **Visualization**: The detected objects are highlighted with bounding boxes and labeled using **Pillow**.
 
-The following image shows the object detection output:
+The following image shows the object detection response from AWS Rekognition:
 
-![Output 1](screenshots/output1.png)
+<img width="1280" alt="Rekogntion Response" src="https://github.com/user-attachments/assets/d4ae66da-93fd-4e08-958d-f2ac1132f4c2" />
 
 ### AWS Rekognition & Boto3 Integration
 
@@ -29,7 +29,7 @@ The following image shows the object detection output:
 
 The following image shows bounding boxes around detected objects:
 
-![Output 2](screenshots/output2.png)
+<img width="1280" alt="Bounding Boxes" src="https://github.com/user-attachments/assets/48ab804d-9122-412f-aa41-acf76cff129a" />
 
 ## Tech Stack
 
